@@ -1,0 +1,36 @@
+_repo: The-Christmas-Reindeer_64109
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Chase, Rhoda
+    alias: Chase, Rhoda C.
+    gutenberg_agent_id: '7073'
+    url: http://www.gutenberg.org/2009/agents/7073
+creator:
+  author:
+    agent_name: Burgess, Thornton W. (Thornton Waldo)
+    alias: Burgess, Thornton Waldo
+    birthdate: 1874
+    deathdate: 1965
+    gutenberg_agent_id: '717'
+    url: http://www.gutenberg.org/2009/agents/717
+    wikipedia: https://en.wikipedia.org/wiki/Thornton_Burgess
+description: ''
+gutenberg_issued: '2020-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64109'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Eskimos -- Juvenile fiction'
+- !lcsh 'Santa Claus -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Reindeer -- Juvenile fiction'
+- !lcsh 'Arctic regions -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The Christmas Reindeer
+url: http://www.gutenberg.org/ebooks/64109
